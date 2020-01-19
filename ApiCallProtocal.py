@@ -1,5 +1,5 @@
 from aiohttp import web # You can install aiohttp with pip will
-import json watervolumes.json
+import json
 
 async def update(request):
     """
